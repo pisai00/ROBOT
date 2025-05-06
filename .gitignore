@@ -1,0 +1,4 @@
+target/
+.env
+ROBOT/src/main/resources/service_account_key.json
+test/
